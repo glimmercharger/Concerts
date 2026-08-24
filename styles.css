@@ -1,4 +1,9 @@
 img {
-    width: 300px;
+    width: 360px;
     height: auto;
+}
+body {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
