@@ -2,7 +2,7 @@
 
 It's a site with all my attended and upcoming concert.
 
-You can visit [https://concert.willkitch.me](concert.willkitch.me)!
+You can visit [concert.willkitch.me](https://concert.willkitch.me)!
 
 My project was made for [Hack Club Stardance](https://stardance.hackclub.com)
 
