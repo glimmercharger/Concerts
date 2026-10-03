@@ -13,7 +13,7 @@ My project was made for [Hack Club Stardance](https://stardance.hackclub.com)
 
 The project is coded in HTML and CSS and you can see the time tracked below!
 
-## coding time stats
+## Coding time stats
 ![](https://hackatime.hackclub.com/api/v1/badge/U09A2B4JQ0G/glimmercharger/Concerts)
 
 ## Some of the features include:
